@@ -35,7 +35,7 @@ Demo video (about 2 minutes, AI-generated narration, captions burned in): [demo/
 
 ## 1. Prerequisites
 
-- Microsoft Fabric with the **Fabric Apps** workload enabled for your tenant (preview).
+- Microsoft Fabric with the **Fabric Apps** workload enabled for your tenant.
 - A workspace on a Fabric capacity (F2 or larger, or a trial), and **Contributor/Edit** permission on it.
 - Node.js 20 or later (the monorepo is tested on Node 24).
 - No connectors, semantic models or extra tenant settings are needed. Anonymous data access is **not** used.

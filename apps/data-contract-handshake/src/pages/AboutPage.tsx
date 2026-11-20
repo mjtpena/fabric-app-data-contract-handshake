@@ -80,7 +80,7 @@ export function AboutPage() {
             migrated, and anything still unanswered close to its effective date turns red. The app draws this as a transit network: contracts are
             lines, consumer teams are stations, and each change is a train that departs on its effective date.
           </p>
-          <p className="m-0 mt-2 text-ui text-muted">Built by Datachain Consulting for AI @Work. Runs on Microsoft Fabric Apps (preview).</p>
+          <p className="m-0 mt-2 text-ui text-muted">Built by Datachain Consulting for AI @Work. Runs on Microsoft Fabric Apps.</p>
         </div>
       </div>
 
